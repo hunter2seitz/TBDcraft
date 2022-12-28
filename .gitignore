@@ -1,0 +1,5 @@
+server.properties
+server.jar
+startServer.sh
+world/
+logs/
